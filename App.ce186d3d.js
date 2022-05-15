@@ -73,4 +73,4 @@ var t=arguments[3];Object.defineProperty(exports,"__esModule",{value:!0}),export
 },{"react/jsx-runtime":"plwR"}],"lY9v":[function(require,module,exports) {
 "use strict";var e=u(require("react-dom")),r=u(require("./SearchParams.js")),t=require("react"),d=require("react-router-dom"),s=u(require("./Details")),i=require("react/jsx-runtime");function u(e){return e&&e.__esModule?e:{default:e}}const c=()=>(0,i.jsxs)("div",{children:[(0,i.jsx)("h1",{children:"Adopt Me!"}),(0,i.jsxs)(d.BrowserRouter,{children:[(0,i.jsx)("h1",{children:"Adopt Me!"}),(0,i.jsxs)(d.Switch,{children:[(0,i.jsx)(d.Route,{path:"/details/:id",children:(0,i.jsx)(s.default,{})}),(0,i.jsx)(d.Route,{path:"/",children:(0,i.jsx)(r.default,{})})]})]})]});e.default.render((0,i.jsx)(t.StrictMode,{children:(0,i.jsx)(c,{})}),document.getElementById("root"));
 },{"react-dom":"NKHc","./SearchParams.js":"45oL","react":"1n8/","react-router-dom":"/uc1","./Details":"XGSj","react/jsx-runtime":"plwR"}]},{},["lY9v"], null)
-//# sourceMappingURL=ReactIntro/App.ce186d3d.js.map
+//# sourceMappingURL=App.ce186d3d.js.map
