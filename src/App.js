@@ -9,7 +9,6 @@ const App = () => {
     <div>
       <h1>Adopt Me!</h1>
       <Router>
-        <h1>Adopt Me!</h1>
         <Switch>
           <Route path="/details/:id">
             <Details />
